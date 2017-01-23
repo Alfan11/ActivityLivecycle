@@ -7,6 +7,7 @@ ActivityLivecycle
 Screenshot :
 
 ![Screenshot_2016-10-09-19-44-53.jpg](https://github.com/Alfan11/ActivityLivecycle/blob/master/Screenshot_2016-10-09-19-44-53.jpg)
+![satu.PNG](https://github.com/Alfan11/ActivityLivecycle/blob/master/satu.PNG)
 
 Identitas :
 
